@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "连接或创建SW程序", "连接或创建SW程序.csproj", "{8F687747-8EAC-4D5D-AEAF-8EEA64C2065B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "特征自动化", "..\特征自动化\特征自动化.csproj", "{D2D94E5E-4C49-45E5-8B93-2499213EDFCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectToSolidWorks(By ChatGpt)", "..\try\ConnectToSolidWorks(By ChatGpt).csproj", "{FF359880-CB23-41A5-9365-3B63B355A391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F687747-8EAC-4D5D-AEAF-8EEA64C2065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F687747-8EAC-4D5D-AEAF-8EEA64C2065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F687747-8EAC-4D5D-AEAF-8EEA64C2065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F687747-8EAC-4D5D-AEAF-8EEA64C2065B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D94E5E-4C49-45E5-8B93-2499213EDFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D94E5E-4C49-45E5-8B93-2499213EDFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D94E5E-4C49-45E5-8B93-2499213EDFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D94E5E-4C49-45E5-8B93-2499213EDFCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF359880-CB23-41A5-9365-3B63B355A391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF359880-CB23-41A5-9365-3B63B355A391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF359880-CB23-41A5-9365-3B63B355A391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF359880-CB23-41A5-9365-3B63B355A391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE6A25B8-67B5-448D-BB14-BB0F70E35D2D}
+	EndGlobalSection
+EndGlobal
